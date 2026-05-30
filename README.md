@@ -26,6 +26,8 @@ python app.py
 * Toggle to show or hide password
 * Displays strength level with color indication
 
+##Author 
+* Yashaswi Singh
 ##🎯 Learning Outcome
 * GUI development using Tkinter
 * Event handling (real-time input detection)
